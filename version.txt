@@ -1,2 +1,2 @@
 1.0.1
-https://github.com/ZondaAttila/bocpUpdater/releases/download/v1.0.1/BOCPAppInstaller%20v%201.0.1.exe
+https://github.com/ZondaAttila/bocpUpdater/releases/download/v1.0.1/BOCPAppInstaller.v.1.0.1.exe
